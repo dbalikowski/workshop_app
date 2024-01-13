@@ -1,0 +1,6 @@
+### requirements ###
+
+1. database in the form of a txt file
+2. the ability to display the database, according to specific queries: first name, last name, date, etc.
+3. editing data in the database
+4. adding new data to the database (adding visits through the client)
